@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/c021ea2a-e897-401b-81b0-7835b55b3cbb/resourceGroups/metaverse-framework/providers/Microsoft.Web/sites/hexaverse-backend",
+  "appService.deploySubpath": "."
+}
